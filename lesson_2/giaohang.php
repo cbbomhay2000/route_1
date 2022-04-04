@@ -1,5 +1,5 @@
 <?php
-include 'DbConnect2.php';
+include 'db.php';
 $link = mysqli_connect("localhost", "root", "", "qlgiaohang"); 
 $sql = "SELECT
 khach.MaKH as makhachhang,
