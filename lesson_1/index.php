@@ -21,7 +21,7 @@
                 <div class="row" >
                     <div class="col-sm-6">
                         <div class="form-group" style="height: 60px; padding-top: 20px;">
-                            <label class="control-label col-sm-6">Phương tiện di chuyển</label>
+                            <label class="control col-sm-6">Phương tiện di chuyển</label>
                             <div class="col-sm-6">
                                 <select class="form-control" name="giatien">
                                     <option value="4200000">Xe 12 chỗ. Đơn giá 4.2 triệu/người</option>
